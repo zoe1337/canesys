@@ -509,21 +509,8 @@ F 3 "" H 2200 7250 50  0001 C CNN
 	1    2200 7250
 	-1   0    0    -1  
 $EndComp
-$Comp
-L power:GND #PWR?
-U 1 1 5E2BDC3A
-P 2450 7250
-AR Path="/5DC18D84/5E17ED97/5E2BDC3A" Ref="#PWR?"  Part="1" 
-AR Path="/5DC18D84/5E2BDC3A" Ref="#PWR0206"  Part="1" 
-F 0 "#PWR0206" H 2450 7000 50  0001 C CNN
-F 1 "GND" H 2455 7077 50  0000 C CNN
-F 2 "" H 2450 7250 50  0001 C CNN
-F 3 "" H 2450 7250 50  0001 C CNN
-	1    2450 7250
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
-	2450 7250 2450 6950
+	2450 7350 2450 6950
 Wire Wire Line
 	2450 6750 2450 6550
 Text Notes 2550 7250 0    50   ~ 0
@@ -1063,7 +1050,7 @@ U 1 1 5E55F5FA
 P 6300 3850
 F 0 "TP201" H 6358 3968 50  0000 L CNN
 F 1 "TestPoint" H 6358 3877 50  0000 L CNN
-F 2 "" H 6500 3850 50  0001 C CNN
+F 2 "TestPoint:TestPoint_Pad_1.0x1.0mm" H 6500 3850 50  0001 C CNN
 F 3 "~" H 6500 3850 50  0001 C CNN
 	1    6300 3850
 	1    0    0    -1  
@@ -1174,9 +1161,9 @@ F 3 "" H 2450 6550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	6750 4100 6600 4100
-Text Label 6600 4100 0    50   ~ 0
-GND
+	6750 4100 6500 4100
+Text Label 6500 4100 0    50   ~ 0
+VBUS
 $Comp
 L Device:L_Core_Ferrite_Small L?
 U 1 1 5E6F7C40
@@ -1432,4 +1419,6 @@ Wire Wire Line
 Connection ~ 5100 1800
 Wire Wire Line
 	5100 1800 5100 2000
+Text Label 2450 7350 1    50   ~ 0
+SUP_GND
 $EndSCHEMATC
