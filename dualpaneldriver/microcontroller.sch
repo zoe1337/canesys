@@ -1460,7 +1460,7 @@ L Connector_Generic:Conn_01x03 J405
 U 1 1 5DF098CB
 P 8700 1100
 F 0 "J405" H 8780 1142 50  0000 L CNN
-F 1 "PIR3" H 8780 1051 50  0000 L CNN
+F 1 "PIR1" H 8780 1051 50  0000 L CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 8700 1100 50  0001 C CNN
 F 3 "~" H 8700 1100 50  0001 C CNN
 	1    8700 1100
@@ -1498,7 +1498,7 @@ Wire Wire Line
 	8450 1000 8500 1000
 Wire Wire Line
 	8500 1100 8400 1100
-Text Label 5400 1100 0    50   ~ 0
+Text Label 7850 1100 0    50   ~ 0
 MOTION1
 $Comp
 L Connector_Generic:Conn_01x03 J403
@@ -1550,7 +1550,7 @@ L Connector_Generic:Conn_01x03 J401
 U 1 1 5DF690CB
 P 6250 1100
 F 0 "J401" H 6330 1142 50  0000 L CNN
-F 1 "PIR1" H 6330 1051 50  0000 L CNN
+F 1 "PIR3" H 6330 1051 50  0000 L CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 6250 1100 50  0001 C CNN
 F 3 "~" H 6250 1100 50  0001 C CNN
 	1    6250 1100
@@ -1588,7 +1588,7 @@ Wire Wire Line
 	6000 1000 6050 1000
 Wire Wire Line
 	6050 1100 5950 1100
-Text Label 7850 1100 0    50   ~ 0
+Text Label 5400 1100 0    50   ~ 0
 MOTION3
 $Comp
 L Connector_Generic:Conn_01x03 J404
