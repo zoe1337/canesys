@@ -101,25 +101,12 @@ F 4 "d.n.p." H 850 7300 50  0001 C CNN "V1"
 $EndComp
 NoConn ~ 850  7400
 $Comp
-L Mechanical:MountingHole_Pad H102
-U 1 1 5E17729B
-P 1250 7300
-F 0 "H102" H 1350 7349 50  0000 L CNN
-F 1 "M3" H 1350 7258 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3.2mm_M3_ISO7380_Pad" H 1250 7300 50  0001 C CNN
-F 3 "~" H 1250 7300 50  0001 C CNN
-F 4 "d.n.p." H 1250 7300 50  0001 C CNN "V1"
-	1    1250 7300
-	1    0    0    -1  
-$EndComp
-NoConn ~ 1250 7400
-$Comp
 L meansOfCircuitDesign:Fully_Automated_Logo G101
 U 1 1 5E177E51
 P 1050 6600
 F 0 "G101" H 1150 6350 60  0001 C CNN
 F 1 "Fully_Automated_Logo" H 1050 6890 60  0001 C CNN
-F 2 "Automated:fully_automated_logo_soldermask" H 1050 6600 50  0001 C CNN
+F 2 "Automated:falogo_small_copper" H 1050 6600 50  0001 C CNN
 F 3 "" H 1050 6600 50  0001 C CNN
 F 4 "d.n.p." H 1050 6600 50  0001 C CNN "V1"
 	1    1050 6600
@@ -128,35 +115,35 @@ $EndComp
 $Comp
 L Graphic:SYM_Arrow45_Large G102
 U 1 1 5E17963F
-P 1750 7300
-F 0 "G102" H 1750 7460 50  0001 C CNN
-F 1 "Transsistor Logo" H 2050 7050 50  0000 R CNN
-F 2 "Automated:transistor_10x10mm" H 1750 7300 50  0001 C CNN
-F 3 "~" H 1750 7300 50  0001 C CNN
-F 4 "d.n.p." H 1750 7300 50  0001 C CNN "V1"
-	1    1750 7300
+P 1450 7250
+F 0 "G102" H 1450 7410 50  0001 C CNN
+F 1 "Transsistor Logo" H 1750 7000 50  0000 R CNN
+F 2 "Automated:transistor_10x10mm" H 1450 7250 50  0001 C CNN
+F 3 "~" H 1450 7250 50  0001 C CNN
+F 4 "d.n.p." H 1450 7250 50  0001 C CNN "V1"
+	1    1450 7250
 	-1   0    0    -1  
 $EndComp
 $Comp
 L Graphic:SYM_Arrow45_Large #SYM101
 U 1 1 5E17B2EC
-P 1700 7250
-F 0 "#SYM101" H 1700 7410 50  0001 C CNN
-F 1 "SYM_Arrow45_Large" H 1700 7110 50  0001 C CNN
-F 2 "" H 1700 7250 50  0001 C CNN
-F 3 "~" H 1700 7250 50  0001 C CNN
-	1    1700 7250
+P 1400 7200
+F 0 "#SYM101" H 1400 7360 50  0001 C CNN
+F 1 "SYM_Arrow45_Large" H 1400 7060 50  0001 C CNN
+F 2 "" H 1400 7200 50  0001 C CNN
+F 3 "~" H 1400 7200 50  0001 C CNN
+	1    1400 7200
 	0    1    1    0   
 $EndComp
 $Comp
 L Graphic:SYM_Arrow45_Large #SYM102
 U 1 1 5E17BE68
-P 1800 7350
-F 0 "#SYM102" H 1800 7510 50  0001 C CNN
-F 1 "SYM_Arrow45_Large" H 1800 7210 50  0001 C CNN
-F 2 "" H 1800 7350 50  0001 C CNN
-F 3 "~" H 1800 7350 50  0001 C CNN
-	1    1800 7350
+P 1500 7300
+F 0 "#SYM102" H 1500 7460 50  0001 C CNN
+F 1 "SYM_Arrow45_Large" H 1500 7160 50  0001 C CNN
+F 2 "" H 1500 7300 50  0001 C CNN
+F 3 "~" H 1500 7300 50  0001 C CNN
+	1    1500 7300
 	0    1    1    0   
 $EndComp
 $Comp
