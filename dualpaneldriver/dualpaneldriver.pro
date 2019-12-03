@@ -1,4 +1,4 @@
-update=Mo 02 Dez 2019 02:03:48 CET
+update=Di 03 Dez 2019 20:22:03 CET
 version=1
 last_client=kicad
 [general]
@@ -80,8 +80,8 @@ OthersTextSizeH=1
 OthersTextSizeThickness=0.15
 OthersTextItalic=0
 OthersTextUpright=1
-SolderMaskClearance=0.051
-SolderMaskMinWidth=0.25
+SolderMaskClearance=0.04
+SolderMaskMinWidth=0.09999999999999999
 SolderPasteClearance=0
 SolderPasteRatio=-0
 [pcbnew/Layer.F.Cu]
@@ -253,7 +253,7 @@ Enabled=0
 [pcbnew/Netclasses]
 [pcbnew/Netclasses/Default]
 Name=Default
-Clearance=0.2
+Clearance=0.16
 TrackWidth=0.1524
 ViaDiameter=0.8
 ViaDrill=0.4
