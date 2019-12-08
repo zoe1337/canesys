@@ -326,7 +326,7 @@ U 1 1 5DEA2F6C
 P 6300 6950
 F 0 "G101" H 6400 6700 60  0001 C CNN
 F 1 "Fully_Automated_Logo" H 6300 7240 60  0001 C CNN
-F 2 "Automated:fully_automated_logo_silkscreen" H 6300 6950 50  0001 C CNN
+F 2 "Automated:fully_automated_logo_soldermask" H 6300 6950 50  0001 C CNN
 F 3 "" H 6300 6950 50  0001 C CNN
 	1    6300 6950
 	1    0    0    -1  
