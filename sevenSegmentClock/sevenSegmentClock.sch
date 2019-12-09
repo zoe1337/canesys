@@ -206,7 +206,7 @@ Wire Wire Line
 Text Label 2600 3400 2    50   ~ 0
 DIN
 Wire Wire Line
-	2850 3250 3900 3250
+	2850 3250 3500 3250
 Connection ~ 2850 3250
 Wire Wire Line
 	2850 3250 2850 3400
@@ -319,7 +319,7 @@ F 3 "~" H 8100 3250 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	8200 3250 8450 3250
+	8200 3250 8250 3250
 $Comp
 L meansOfCircuitDesign:Fully_Automated_Logo G101
 U 1 1 5DEA2F6C
@@ -364,4 +364,40 @@ F 3 "" H 1350 3800 50  0001 C CNN
 	1    1350 3800
 	-1   0    0    -1  
 $EndComp
+$Comp
+L Connector_Generic:Conn_01x01 J1
+U 1 1 5EA8E1A3
+P 2200 3900
+F 0 "J1" H 2118 3675 50  0000 C CNN
+F 1 "Conn_01x01" H 2118 3766 50  0000 C CNN
+F 2 "TestPoint:TestPoint_THTPad_1.5x1.5mm_Drill0.7mm" H 2200 3900 50  0001 C CNN
+F 3 "~" H 2200 3900 50  0001 C CNN
+	1    2200 3900
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	2400 3900 8250 3900
+Wire Wire Line
+	8250 3900 8250 3250
+Connection ~ 8250 3250
+Wire Wire Line
+	8250 3250 8450 3250
+$Comp
+L Connector_Generic:Conn_01x01 J2
+U 1 1 5EA9025F
+P 9100 2400
+F 0 "J2" H 9180 2442 50  0000 L CNN
+F 1 "Conn_01x01" H 9180 2351 50  0000 L CNN
+F 2 "TestPoint:TestPoint_THTPad_1.5x1.5mm_Drill0.7mm" H 9100 2400 50  0001 C CNN
+F 3 "~" H 9100 2400 50  0001 C CNN
+	1    9100 2400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8900 2400 3500 2400
+Wire Wire Line
+	3500 2400 3500 3250
+Connection ~ 3500 3250
+Wire Wire Line
+	3500 3250 3900 3250
 $EndSCHEMATC

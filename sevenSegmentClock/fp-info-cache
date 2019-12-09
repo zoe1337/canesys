@@ -1,512 +1,400 @@
-113753334972932
-Automated
-21700_welded_NEG
-
-battery cell
-0
-1
-1
-Automated
-21700_welded_POS
-
-battery cell
-0
-1
-1
-Automated
-BGA4_Micro_Foot
-https://datasheet.octopart.com/SI8821EDB-T2-E1-Vishay-datasheet-20913387.pdf
-BGA4, micro foot, 4-bump
-0
-4
-4
-Automated
-BarrelJack_Horizontal
-DC Barrel Jack
-Power Jack
-0
-3
-3
-Automated
-BatteryHolder_Keystone_54_18650P
-Keystone Electronics Typ 54 battery holder clip (x2) for 18650P circuit
-18650, li-ion, battery, 
-0
-6
-2
-Automated
-Conn_Wuerth_4123M_691412320004
-Würth Series 4123 3.81mm Screwless 45° WR-TBL
-wuerth, terminal block,
-0
-4
-4
-Automated
-DFN-6-1EP_2.5x2.3mm_P0.65mm_EP1.7x1.83mm
-6-Lead Plastic Dual Flat, No Lead Package Diodes U-DFN2523-6
-DFN 0.65 DFN2523-6 UDFN diodes
-0
-9
-7
-Automated
-DFN-6-1EP_2.45x2.45mm_P0.8mm_EP1.25x1.7mm
-SGP30 footprint
-sensirion, dfn, dfn6, sensor
-0
-7
-7
-Automated
-DFN-6-1EP_2.45x2.45mm_P0.8mm_EP1.25x1.7mm_Filter_cap
-SGP30 with SF2 filter cap installed
-sensirion, dfn, dfn6, sensor, sgp30, sf2
-0
-7
-7
-Automated
-DFN-8-1EP_2.5x2.5mm_P0.5mm_EP1.1x1.8mm
-SHT3x footprint
-sensirion, dfn, dfn8, sensor, sht3x, sht31
-0
-9
-9
-Automated
-DFN-8-1EP_2.5x2.5mm_P0.5mm_EP1.1x1.8mm_Filter_cap
-SHT3x with SF2 Filter Cap
-sensirion, dfn, dfn8, sensor, sht3x, sht31
-0
-9
-9
-Automated
-DSOP Advance
-http://toshiba.semicon-storage.com/eu/design-support/package/detail.DSOP%20Advance.html
-dsop dsopadvance advance TE12L1
-0
-9
-8
-Automated
-DSOP_Advance
-http://toshiba.semicon-storage.com/eu/design-support/package/detail.DSOP%20Advance.html
-dsop dsopadvance advance TE12L1
-0
-9
-8
-Automated
-D_SMP_DO-220AA
-Vishay SMP (DO-220AA) package
-diode, vishay, smp, do220aa
+89730696351938
+TestPoint
+TestPoint_2Pads_Pitch2.54mm_Drill0.8mm
+Test point with 2 pins, pitch 2.54mm, drill diameter 0.8mm
+CONN DEV
 0
 2
 2
-Automated
-ESP-12E
-Wi-Fi Module, http://wiki.ai-thinker.com/_media/esp8266/docs/aithinker_esp_12f_datasheet_en.pdf
-Wi-Fi Module
+TestPoint
+TestPoint_2Pads_Pitch5.08mm_Drill1.3mm
+Test point with 2 pads, pitch 5.08mm, hole diameter 1.3mm, wire diameter 1.0mm
+CONN DEV
 0
-22
-22
-Automated
-Heatsink_Cincon_M-C421
-
-
-0
-4
-1
-Automated
-Heatsink_Wakefield-Vette_960-27-xx-D
-
-
+2
+2
+TestPoint
+TestPoint_Bridge_Pitch2.0mm_Drill0.7mm
+wire loop as test point, pitch 2.0mm, hole diameter 0.7mm, wire diameter 0.5mm
+test point wire loop
 0
 2
 1
-Automated
-Heatsink_Wakefield_517-95AB
-Wakefield 517-95AB
-heatsink
+TestPoint
+TestPoint_Bridge_Pitch2.54mm_Drill0.7mm
+wire loop as test point, pitch 2.0mm, hole diameter 0.7mm, wire diameter 0.5mm
+test point wire loop
 0
-4
+2
 1
-Automated
-ISL_HTSSOP-38_9.7x4.4mm_Pitch0.5mm_EP4.6x3.2mm
-M38.173C 38 LEAD HEAT-SINK THIN SHRINK SMALL OUTLINE PLASTIC PACKAGE (HTSSOP)
-
-0
-39
-39
-Automated
-Inductor_1008_2520_metric
-https://datasheet.octopart.com/CIG22L2R2MNE-Samsung-Electro-Mechanics-datasheet-26588947.pdf
-inductor, 1008, 2520, samsung
+TestPoint
+TestPoint_Bridge_Pitch2.54mm_Drill1.0mm
+wire loop as test point, pitch 2.54mm, hole diameter 1.0mm, wire diameter 0.8mm
+test point wire loop
 0
 2
-2
-Automated
-Inductor_Panasonic_PCC-M0530M
-https://datasheet.octopart.com/ETQP3M2R2YFP-Panasonic-datasheet-97125960.pdf
-smd, inductor, panasonic
-0
-2
-2
-Automated
-ItsyBitsy
-
-
-0
-33
-33
-Automated
-LEDstripConn1.44mmVGRBW
-
-
-0
-5
-5
-Automated
-LEDstripConn3pinSmart
-
-
-0
-3
-3
-Automated
-LTC_UHG_QFN-40_EP_5x8_Pitch0.5mm
-40-Lead Plastic QFN for the LT8708
-LT8708
-0
-52
-41
-Automated
-L_Bourns_SRF
-
-
-0
-4
-4
-Automated
-L_Coilcraft_SER3018H
-Coilcraft SER3018H family
-Power Inductor, Coilcraft, High Current
-0
-3
-2
-Automated
-L_Laird_TYS6045
-Laird Power Inductor TYS6045 6x6x4.5mm
-
-0
-2
-2
-Automated
-L_TDK_SLF12555
-TDK SLF12555 type shielded power inductors
-shielded inductor, tdk, power,
-0
-2
-2
-Automated
-L_Vishay_IHLP-8787
-Inductor, Vishay, IHLP series, 22.0mmx22.0mm
-inductor vishay ihlp smd
-0
-2
-2
-Automated
-MountingHole_3.2mm_M3_Pad_Via
-Mounting Hole 3.2mm, M3
-mounting hole 3.2mm m3
-0
-9
 1
-Automated
-MountingHole_6.4mm_M6_Pad_Via_Solid
-Mounting Hole 6.4mm, M6
-mounting hole 6.4mm m6
+TestPoint
+TestPoint_Bridge_Pitch2.54mm_Drill1.3mm
+wire loop as test point, pitch 2.54mm, hole diameter 1.3mm, wire diameter 1.0mm
+test point wire loop
 0
-9
+2
 1
-Automated
-MountingHole_Sense_7mm_M6_Pad_Via
-Mounting Hole with Sense Connection 7mm, M6 with tolerance
-mounting hole m6 sense
-0
-9
-2
-Automated
-Murata_Resonator_JGC42_3.2x1.3x0.9mm
-
-
-0
-3
-3
-Automated
-NetTie-0.2mm
-
-
+TestPoint
+TestPoint_Bridge_Pitch3.81mm_Drill1.3mm
+wire loop as test point, pitch 3.81mm, hole diameter 1.3mm, wire diameter 1.0mm
+test point wire loop
 0
 2
-2
-Automated
-NetTie-0.2mm-dangerous
-
-
+1
+TestPoint
+TestPoint_Bridge_Pitch5.08mm_Drill0.7mm
+wire loop as test point, pitch 5.08mm, hole diameter 0.7mm, wire diameter 1.0mm
+test point wire loop
 0
 2
-2
-Automated
-PCB_FeatherWing
-
-
-0
-28
-28
-Automated
-PCBcoil400nH
-
-inductor, l, coil
-0
-3
-3
-Automated
-RGX_TI_VQFN-HR11
-http://www.ti.com/lit/ds/symlink/tps62135.pdf
-tps62135, rgx
-0
-11
-11
-Automated
-R_1225_3263Metric
-Resistor SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-resistor
+1
+TestPoint
+TestPoint_Bridge_Pitch5.08mm_Drill1.3mm
+wire loop as test point, pitch 5.08mm, hole diameter 1.3mm, wire diameter 1.0mm
+test point wire loop
 0
 2
-2
-Automated
-R_TE_SM_2
-
-power resistor
+1
+TestPoint
+TestPoint_Bridge_Pitch6.35mm_Drill1.3mm
+wire loop as test point, pitch 6.35mm, hole diameter 1.3mm, wire diameter 1.0mm
+test point wire loop
 0
 2
-2
-Automated
-R_TE_SM_3
-
-power resistor
+1
+TestPoint
+TestPoint_Bridge_Pitch7.62mm_Drill1.3mm
+wire loop as test point, pitch 7.62mm, hole diameter 1.3mm, wire diameter 1.0mm
+test point wire loop
 0
 2
-2
-Automated
-R_TE_SM_5
-
-power resistor
+1
+TestPoint
+TestPoint_Keystone_5000-5004_Miniature
+Keystone Miniature THM Test Point 5000-5004, http://www.keyelco.com/product-pdf.cfm?p=1309
+Through Hole Mount Test Points
 0
-2
-2
-Automated
-Resonator_SMD_muRata_CSTCR_G-3Pin_2.6x3.4mm
-https://www.murata.com/~/media/webrenewal/support/library/catalog/products/timingdevice/ceralock/p16e.ashx?la=en-us
-resonator crystal murata cstcr
+1
+1
+TestPoint
+TestPoint_Keystone_5005-5009_Compact
+Keystone Miniature THM Test Point 5005-5009, http://www.keyelco.com/product-pdf.cfm?p=1314
+Through Hole Mount Test Points
 0
-9
-3
-Automated
-SO8E_Silergy_4x5mm_EP3.4x2.55mm
-Silergy SO8E 4x5mm body with Exposed Pad 3.4x2.55mm
-silergy, so8e, soic
+1
+1
+TestPoint
+TestPoint_Keystone_5010-5014_Multipurpose
+Keystone Miniature THM Test Point 5010-5014, http://www.keyelco.com/product-pdf.cfm?p=1319
+Through Hole Mount Test Points
 0
-9
-9
-Automated
-SOIC-220
-
-
+1
+1
+TestPoint
+TestPoint_Keystone_5015_Micro-Minature
+SMT Test Point- Micro Miniature 5015, http://www.keyelco.com/product-pdf.cfm?p=1353
+Test Point
 0
-220
-220
-Automated
-SSOP-48_5.3mm_LTC6811
-48-Lead Plastic SSOP (5.3mm) Reference LTC DWG # 05-08-1887 Rev A
-
+1
+1
+TestPoint
+TestPoint_Keystone_5019_Minature
+SMT Test Point- Micro Miniature 5019, http://www.keyelco.com/product-pdf.cfm?p=1357
+Test Point
 0
-48
-48
-Automated
-SW_SPST_PTS636_G
-C&K Components SPST SMD PTS645 Series 6mm Tact Switch
-SPST Button Switch
+1
+1
+TestPoint
+TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded
+wire loop with bead as test point, loop diameter 1.8mm, hole diameter 1.0mm
+test point wire loop bead
 0
-2
-2
-Automated
-SolderJumper-2_P1.2mm_Bridged_Pad0.7x1.0mm
-SMD Solder Jumper, 0.7x1.0mm Pads, 0.4mm gap, bridged with 1 copper strip of 0.25mm width
-solder jumper open
+1
+1
+TestPoint
+TestPoint_Loop_D2.50mm_Drill1.0mm
+wire loop as test point, loop diameter 2.5mm, hole diameter 1.0mm
+test point wire loop bead
 0
-2
-2
-Automated
-TI_Boosterpack-40
-TI 40-pin Boosterpack Footprint
-boosterpack, strap-on booster, launchpad
+1
+1
+TestPoint
+TestPoint_Loop_D2.50mm_Drill1.0mm_LowProfile
+low profile wire loop as test point, loop diameter 2.5mm, hole diameter 1.0mm
+test point wire loop bead
 0
-40
-40
-Automated
-TI_USON-6_DNP0006A_2x2mm_EP_1.35x0.65mm_P0.65mm
-0.65-mm Height No-lead Small Outline Package
-dnp0006a, opt3001, uson6
+1
+1
+TestPoint
+TestPoint_Loop_D2.50mm_Drill1.85mm
+wire loop as test point, loop diameter 2.5mm, hole diameter 1.85mm
+test point wire loop bead
 0
-9
-7
-Automated
-TI_VQFN-56_EP_7x7_Pitch0.4mm_RSH0056E
-
-
+1
+1
+TestPoint
+TestPoint_Loop_D2.54mm_Drill1.5mm_Beaded
+wire loop with bead as test point, loop diameter2.548mm, hole diameter 1.5mm
+test point wire loop bead
 0
-102
-55
-Automated
-TI_VQFN20_RGY0020C_4.5x3.5mm_EP3.2x2.2mm
-VQFN20 with EP, RGY package for TCAN4550
-vqfn20, tcan4550, rgy
+1
+1
+TestPoint
+TestPoint_Loop_D2.60mm_Drill0.9mm_Beaded
+wire loop with bead as test point, loop diameter2.6mm, hole diameter 0.9mm
+test point wire loop bead
 0
-36
-21
-Automated
-TO-220SM(W)
-https://toshiba.semicon-storage.com/eu/design-support/package/detail.TO-220SM(W).html
-to220 to-220 220sm
+1
+1
+TestPoint
+TestPoint_Loop_D2.60mm_Drill1.4mm_Beaded
+wire loop with bead as test point, loop diameter2.6mm, hole diameter 1.4mm
+test point wire loop bead
 0
-3
-3
-Automated
-Texas_DRV_WSON-6-1EP_2x2mm_P0.65mm_EP1.6x1.0mm
-6-Pin WSON (TI DRV) Package with Exposed Pad, NSMD
-wson, wson6, drv, tps6229x, son
+1
+1
+TestPoint
+TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded
+wire loop with bead as test point, loop diameter2.6mm, hole diameter 1.6mm
+test point wire loop bead
 0
-11
-7
-Automated
-Texas_PWP0020A_HTSSOP-20_6.5x4.4mm_P0.65mm_EP_4.2x3mm
-
-htssop20, lm5116, ssop20
+1
+1
+TestPoint
+TestPoint_Loop_D3.50mm_Drill0.9mm_Beaded
+wire loop with bead as test point, loop diameter2.6mm, hole diameter 0.9mm
+test point wire loop bead
 0
-25
-21
-Automated
-Texas_R-PDSO-G5
-R-PDSO-G5
-R-PDSO-G5 SC-70-5
+1
+1
+TestPoint
+TestPoint_Loop_D3.50mm_Drill1.4mm_Beaded
+wire loop with bead as test point, loop diameter 3.5mm, hole diameter 1.4mm
+test point wire loop bead
 0
-5
-5
-Automated
-Texas_RGY0020A_PVQFN-N20_EP2.05x3.05mm
-VQFN, 20 Pin (http://www.ti.com/lit/ds/symlink/sn74lv244at.pdf)
-QFN NoLead
+1
+1
+TestPoint
+TestPoint_Loop_D3.80mm_Drill2.0mm
+wire loop as test point, loop diameter 3.8mm, hole diameter 2.0mm
+test point wire loop bead
 0
-25
-21
-Automated
-Texas_USON6_DRY
-USON6 0.6mm max height plastic small outline no lead
-uson, uson6, dry, texas
+1
+1
+TestPoint
+TestPoint_Loop_D3.80mm_Drill2.5mm
+wire loop as test point, loop diameter 3.8mm, hole diameter 2.5mm
+test point wire loop bead
 0
-6
-6
-Automated
-UDFN-4L_1.3x1.0mm_P0.5mm
-
-
+1
+1
+TestPoint
+TestPoint_Loop_D3.80mm_Drill2.8mm
+wire loop as test point, loop diameter 3.8mm, hole diameter 2.8mm
+test point wire loop bead
 0
-4
-4
-Automated
-Vishay_LGA-4_VEML_2x1.25mm
-4-pin LGA for VEML3328
-lga4 veml rgbcir
+1
+1
+TestPoint
+TestPoint_Pad_1.0x1.0mm
+SMD rectangular pad as test Point, square 1.0mm side length
+test point SMD pad rectangle square
 0
-4
-4
-Automated
-WE-SL5
-Würth Common Mode Line Filter 744272102
-choke, line filter, wuerth,
+1
+1
+TestPoint
+TestPoint_Pad_1.5x1.5mm
+SMD rectangular pad as test Point, square 1.5mm side length
+test point SMD pad rectangle square
 0
-4
-4
-Automated
-WSK1216
-https://www.vishay.com/docs/30189/wsk1216.pdf
-wsk1216 sense resistor
+1
+1
+TestPoint
+TestPoint_Pad_2.0x2.0mm
+SMD rectangular pad as test Point, square 2.0mm side length
+test point SMD pad rectangle square
 0
-4
-4
-Automated
-WSON6
-http://www.ti.com/lit/ds/symlink/tps709.pdf
-wson, drv, hotrod,
+1
+1
+TestPoint
+TestPoint_Pad_2.5x2.5mm
+SMD rectangular pad as test Point, square 2.5mm side length
+test point SMD pad rectangle square
 0
-9
-8
-Automated
-fa-logo
-
-
+1
+1
+TestPoint
+TestPoint_Pad_3.0x3.0mm
+SMD rectangular pad as test Point, square 3.0mm side length
+test point SMD pad rectangle square
 0
+1
+1
+TestPoint
+TestPoint_Pad_4.0x4.0mm
+SMD rectangular pad as test Point, square 4.0mm side length
+test point SMD pad rectangle square
 0
+1
+1
+TestPoint
+TestPoint_Pad_D1.0mm
+SMD pad as test Point, diameter 1.0mm
+test point SMD pad
 0
-Automated
-fa-logo2
-
-
+1
+1
+TestPoint
+TestPoint_Pad_D1.5mm
+SMD pad as test Point, diameter 1.5mm
+test point SMD pad
 0
+1
+1
+TestPoint
+TestPoint_Pad_D2.0mm
+SMD pad as test Point, diameter 2.0mm
+test point SMD pad
 0
+1
+1
+TestPoint
+TestPoint_Pad_D2.5mm
+SMD pad as test Point, diameter 2.5mm
+test point SMD pad
 0
-Automated
-falogo_small_copper
-
-
+1
+1
+TestPoint
+TestPoint_Pad_D3.0mm
+SMD pad as test Point, diameter 3.0mm
+test point SMD pad
 0
+1
+1
+TestPoint
+TestPoint_Pad_D4.0mm
+SMD pad as test Point, diameter 4.0mm
+test point SMD pad
 0
+1
+1
+TestPoint
+TestPoint_Plated_Hole_D2.0mm
+Plated Hole as test Point, diameter 2.0mm
+test point plated hole
 0
-Automated
-fire_hazard_10x12mm
-
-
+1
+1
+TestPoint
+TestPoint_Plated_Hole_D3.0mm
+Plated Hole as test Point, diameter 3.0mm
+test point plated hole
 0
+1
+1
+TestPoint
+TestPoint_Plated_Hole_D4.0mm
+Plated Hole as test Point, diameter 4.0mm
+test point plated hole
 0
+1
+1
+TestPoint
+TestPoint_Plated_Hole_D5.0mm
+Plated Hole as test Point, diameter 5.0mm
+test point plated hole
 0
-Automated
-fully_automated_logo_silkscreen
-Fully Automated Logo 13x15.5mm on front silkscreen
-fully automated logo
+1
+1
+TestPoint
+TestPoint_THTPad_1.0x1.0mm_Drill0.5mm
+THT rectangular pad as test Point, square 1.0mm side length, hole diameter 0.5mm
+test point THT pad rectangle square
 0
+1
+1
+TestPoint
+TestPoint_THTPad_1.5x1.5mm_Drill0.7mm
+THT rectangular pad as test Point, square 1.5mm side length, hole diameter 0.7mm
+test point THT pad rectangle square
 0
+1
+1
+TestPoint
+TestPoint_THTPad_2.0x2.0mm_Drill1.0mm
+THT rectangular pad as test Point, square 2.0mm_Drill1.0mm  side length, hole diameter 1.0mm
+test point THT pad rectangle square
 0
-Automated
-fully_automated_logo_soldermask
-Fully Automated Logo 13x15.5mm on front solder mask (shown in copper)
-fully automated logo
+1
+1
+TestPoint
+TestPoint_THTPad_2.5x2.5mm_Drill1.2mm
+THT rectangular pad as test Point, square 2.5mm side length, hole diameter 1.2mm
+test point THT pad rectangle square
 0
+1
+1
+TestPoint
+TestPoint_THTPad_3.0x3.0mm_Drill1.5mm
+THT rectangular pad as test Point, square 3.0mm side length, hole diameter 1.5mm
+test point THT pad rectangle square
 0
+1
+1
+TestPoint
+TestPoint_THTPad_4.0x4.0mm_Drill2.0mm
+THT rectangular pad as test Point, square 4.0mm  side length, hole diameter 2.0mm
+test point THT pad rectangle square
 0
-Automated
-mantis-backside
-
-
+1
+1
+TestPoint
+TestPoint_THTPad_D1.0mm_Drill0.5mm
+THT pad as test Point, diameter 1.0mm, hole diameter 0.5mm
+test point THT pad
 0
+1
+1
+TestPoint
+TestPoint_THTPad_D1.5mm_Drill0.7mm
+THT pad as test Point, diameter 1.5mm, hole diameter 0.7mm
+test point THT pad
 0
+1
+1
+TestPoint
+TestPoint_THTPad_D2.0mm_Drill1.0mm
+THT pad as test Point, diameter 2.0mm, hole diameter 1.0mm
+test point THT pad
 0
-Automated
-mk1_backside
-
-
+1
+1
+TestPoint
+TestPoint_THTPad_D2.5mm_Drill1.2mm
+THT pad as test Point, diameter 2.5mm, hole diameter 1.2mm 
+test point THT pad
 0
+1
+1
+TestPoint
+TestPoint_THTPad_D3.0mm_Drill1.5mm
+THT pad as test Point, diameter 3.0mm, hole diameter 1.5mm
+test point THT pad
 0
+1
+1
+TestPoint
+TestPoint_THTPad_D4.0mm_Drill2.0mm
+THT pad as test Point, diameter 4.0mm, hole diameter 2.0mm
+test point THT pad
 0
-Automated
-transistor_10x10mm
-
-
-0
-0
-0
+1
+1
