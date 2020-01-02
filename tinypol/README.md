@@ -4,7 +4,9 @@
 
 ![](tinypol/tinypol-board.png "Photo of the Fully Automated 48-V Tinypol 1.0")
 
-This design is based around the Silergy SY8502FCC converter. [IC Datasheet](tinypol/1809231105_Silergy-Corp-SY8502FCC_C87752.pdf). [Board Schematic](tinypol/tinypol_color.pdf). For layout, see the .kicad_pcb file in the repository.
+This design is based around the Silergy SY8502FCC converter.  
+[IC Datasheet](tinypol/1809231105_Silergy-Corp-SY8502FCC_C87752.pdf). [Board Schematic](tinypol/tinypol_color.pdf).  
+For layout, see the .kicad_pcb file in the repository.
 
 ![](tinypol/schematic.png "Schematic of the board.")
 
@@ -13,8 +15,8 @@ This design is based around the Silergy SY8502FCC converter. [IC Datasheet](tiny
 Connect the input side to the power source, and the output side to the load. The converter powers on automatically above approx. 6.2V input. Output is programmed to 5.2 volt, can be changed by replacing R3 and/or R4. Reference voltage is 1.2 V. Supported input voltage is around 56-V, above which the D1 TVS diode will start to clamp. You can remove this to increase maximum input voltage to 85V abs max, but then you should avoid hot-plugging the board.
 
 There are two ways to shut down the converter while input power is present. 
- - Either apply a logic high to input labled DIS (J4) - don't exceed +/- 12 V on this pin -, or 
- - pull EN input low. The EN pin is pulled up to VIN with 100kOhm, therefore the circuit you use to discharge EN must withstand the maximum VIN you plan to apply.
+ - Either apply a logic high to input labled OFF (J4) *don't exceed +/- 12V on this pin*, or 
+ - pull EN input low. The EN pin is pulled up on-board to VIN with 100kOhm, therefore the circuit you use to discharge EN must withstand the maximum VIN you plan to apply.
 
  Alternatively, you can disconnect the input.
 
