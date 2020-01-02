@@ -2,7 +2,7 @@
 
 ## Overview
 
-![](tinypol/tinypol-board.png "Photo of the Fully Automated 48-V Tinypol 1.0")
+![](/tinypol/tinypol-board.png "Photo of the Fully Automated 48-V Tinypol 1.0")
 
 This design is based around the Silergy SY8502FCC converter.  
 [IC Datasheet](/tinypol/1809231105_Silergy-Corp-SY8502FCC_C87752.pdf). [Board Schematic](/tinypol/tinypol_color.pdf).  
