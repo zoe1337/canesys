@@ -31,7 +31,7 @@ There are two ways to shut down the converter while input power is present.
 |                         Output Voltage: | 5.2V (default)<br>Optionally between 1.8V and 24V                  |
 |             Internal Reference Voltage: | 1.2V                                                               |
 |                          Output Ripple: | 500mVpp with no load<br>80mVpp in Continuous Conduction Mode       |
-|                         Output Current: | 1.8A peak<br><br>1.2A continuous                                   |
+|                         Output Current: | 1.8A peak<br>1.2A continuous                                   |
 |                            Power Stage: | Synchronous buck with 500mOhm (HS) and 240mOhm (LS) nMOS switches  |
 |             Overtemperature Protection: | Yes, at 150 degrees Celsius                                        |
 |               Short Circuit Protection: | Yes, at 2A                                                         |
@@ -40,7 +40,7 @@ There are two ways to shut down the converter while input power is present.
 | Transient Input Overvoltage Protection: | Yes, with on-board TVS diode                                       |
 |          Output Overvoltage Protection: | No.                                                                |
 |                       Hot-Plug Capable: | Yes.                                                               |
-|                          Soft Shutdown: | <br>Yes (logic high on OFF pin) or<br><br>Yes (pulling EN pin low) |
+|                          Soft Shutdown: | Yes (logic high on OFF pin) or<br>Yes (pulling EN pin low) |
 |                    Output ON Indicator: | No.                                                                |
 |                      Power Good Output: | No.                                                                |
 |              Fixed Switching Frequency: | No. <br>In Continuous Conduction Mode fSW is approx. 340 kHz       |
