@@ -20,7 +20,7 @@ There are two ways to shut down the converter while input power is present.
 
  Alternatively, you can disconnect the input.
 
- ## Properties
+## Properties
 
 |                          Specifications |                                                                    |
 |----------------------------------------:|--------------------------------------------------------------------|
@@ -31,7 +31,7 @@ There are two ways to shut down the converter while input power is present.
 |                         Output Voltage: | 5.2V (default)<br>Optionally between 1.8V and 24V                  |
 |             Internal Reference Voltage: | 1.2V                                                               |
 |                          Output Ripple: | 500mVpp with no load<br>80mVpp in Continuous Conduction Mode       |
-|                         Output Current: | 1.8A peak<br>1.2A continuous                                   |
+|                         Output Current: | 1.8A peak<br>1.2A continuous                                       |
 |                            Power Stage: | Synchronous buck with 500mOhm (HS) and 240mOhm (LS) nMOS switches  |
 |             Overtemperature Protection: | Yes, at 150 degrees Celsius                                        |
 |               Short Circuit Protection: | Yes, at 2A                                                         |
@@ -40,20 +40,19 @@ There are two ways to shut down the converter while input power is present.
 | Transient Input Overvoltage Protection: | Yes, with on-board TVS diode                                       |
 |          Output Overvoltage Protection: | No.                                                                |
 |                       Hot-Plug Capable: | Yes.                                                               |
-|                          Soft Shutdown: | Yes (logic high on OFF pin) or<br>Yes (pulling EN pin low) |
+|                          Soft Shutdown: | Yes (logic high on OFF pin) or<br>Yes (pulling EN pin low)         |
 |                    Output ON Indicator: | No.                                                                |
 |                      Power Good Output: | No.                                                                |
-|              Fixed Switching Frequency: | No. <br>In Continuous Conduction Mode fSW is approx. 340 kHz       |
 |                                   RoHS: | Yes, plus tantalum-free.                                           |
 
 ![](/tinypol/render.png "Render of the 48-V PoL with explanations")
 
- ## Planned Future Changes
+## Planned Future Changes
 
  - Add a capacitor at SYE pin to de-glitch.
  - Add an output indicator LED.
 
- ## Test report
+## Test report
 
 The IC looks quite OK! Output has little noise (thanks to the plentiful output MLCCs) but high ripple because of low switching frequency and hysteretic operation. Rectifier MOSFET control looks good. Short circuit test looks good. Startup after short is good.
 
