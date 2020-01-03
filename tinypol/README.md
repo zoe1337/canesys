@@ -46,6 +46,8 @@ There are two ways to shut down the converter while input power is present.
 |              Fixed Switching Frequency: | No. <br>In Continuous Conduction Mode fSW is approx. 340 kHz       |
 |                                   RoHS: | Yes, plus tantalum-free.                                           |
 
+![](/tinypol/render.png "Render of the 48-V PoL with explanations")
+
  ## Planned Future Changes
 
  - Add a capacitor at SYE pin to de-glitch.
