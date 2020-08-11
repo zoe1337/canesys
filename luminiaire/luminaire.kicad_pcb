@@ -146,12 +146,9 @@
     (add_net VDD)
   )
 
-  (module Automated:LED_Osram_DURIS_S5_3x2.55x0.6mm (layer F.Cu) (tedit 5F1742BE) (tstamp 5E8DBC95)
+  (module Automated:LED_Osram_DURIS_S5_3x2.55x0.6mm (layer F.Cu) (tedit 5F26CB84) (tstamp 5E8DBC95)
     (at 121 85)
-    (descr "Osram DURIS S5 LED")
-    (tags "osram duris s5 led")
     (path /5E5C4033)
-    (attr smd)
     (fp_text reference D12 (at 0 2.175) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -194,10 +191,10 @@
       (net 1 GND))
     (pad 1 smd rect (at -0.86 0) (size 1.98 1.5) (layers F.Cu F.Mask)
       (net 1 GND))
-    (model ${KIPRJMOD}/CAD_GX_PSLX31_20160316/GX_PSLX31_20160316_geometry.STEP
+    (model :AUTOMATEDDIR:/3D/LEDs/OSRAM_Duris_S5.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
@@ -453,12 +450,9 @@
     )
   )
 
-  (module Automated:LED_Osram_DURIS_S5_3x2.55x0.6mm (layer F.Cu) (tedit 5F1742BE) (tstamp 5E8DBCE0)
+  (module Automated:LED_Osram_DURIS_S5_3x2.55x0.6mm (layer F.Cu) (tedit 5F26CB84) (tstamp 5E8DBCE0)
     (at 127.454545 85)
-    (descr "Osram DURIS S5 LED")
-    (tags "osram duris s5 led")
     (path /5E5C39F6)
-    (attr smd)
     (fp_text reference D11 (at 0 2.175) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -501,19 +495,16 @@
       (net 5 /N1))
     (pad 1 smd rect (at -0.86 0) (size 1.98 1.5) (layers F.Cu F.Mask)
       (net 5 /N1))
-    (model ${KIPRJMOD}/CAD_GX_PSLX31_20160316/GX_PSLX31_20160316_geometry.STEP
+    (model :AUTOMATEDDIR:/3D/LEDs/OSRAM_Duris_S5.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module Automated:LED_Osram_DURIS_S5_3x2.55x0.6mm (layer F.Cu) (tedit 5F1742BE) (tstamp 5E8DBD2B)
+  (module Automated:LED_Osram_DURIS_S5_3x2.55x0.6mm (layer F.Cu) (tedit 5F26CB84) (tstamp 5E8DBD2B)
     (at 133.90909 85)
-    (descr "Osram DURIS S5 LED")
-    (tags "osram duris s5 led")
     (path /5E5C34E2)
-    (attr smd)
     (fp_text reference D10 (at 0 2.175) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -556,19 +547,16 @@
       (net 6 /N2))
     (pad 1 smd rect (at -0.86 0) (size 1.98 1.5) (layers F.Cu F.Mask)
       (net 6 /N2))
-    (model ${KIPRJMOD}/CAD_GX_PSLX31_20160316/GX_PSLX31_20160316_geometry.STEP
+    (model :AUTOMATEDDIR:/3D/LEDs/OSRAM_Duris_S5.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module Automated:LED_Osram_DURIS_S5_3x2.55x0.6mm (layer F.Cu) (tedit 5F1742BE) (tstamp 5E8DBEED)
+  (module Automated:LED_Osram_DURIS_S5_3x2.55x0.6mm (layer F.Cu) (tedit 5F26CB84) (tstamp 5E8DBEED)
     (at 140.363635 85)
-    (descr "Osram DURIS S5 LED")
-    (tags "osram duris s5 led")
     (path /5E8FF3AE)
-    (attr smd)
     (fp_text reference D9 (at 0 2.175) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -611,19 +599,16 @@
       (net 7 /N3))
     (pad 1 smd rect (at -0.86 0) (size 1.98 1.5) (layers F.Cu F.Mask)
       (net 7 /N3))
-    (model ${KIPRJMOD}/CAD_GX_PSLX31_20160316/GX_PSLX31_20160316_geometry.STEP
+    (model :AUTOMATEDDIR:/3D/LEDs/OSRAM_Duris_S5.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module Automated:LED_Osram_DURIS_S5_3x2.55x0.6mm (layer F.Cu) (tedit 5F1742BE) (tstamp 5E8DBEA2)
+  (module Automated:LED_Osram_DURIS_S5_3x2.55x0.6mm (layer F.Cu) (tedit 5F26CB84) (tstamp 5E8DBEA2)
     (at 146.81818 85)
-    (descr "Osram DURIS S5 LED")
-    (tags "osram duris s5 led")
     (path /5E8FE4DB)
-    (attr smd)
     (fp_text reference D8 (at 0 2.175) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -666,19 +651,16 @@
       (net 18 /N4))
     (pad 1 smd rect (at -0.86 0) (size 1.98 1.5) (layers F.Cu F.Mask)
       (net 18 /N4))
-    (model ${KIPRJMOD}/CAD_GX_PSLX31_20160316/GX_PSLX31_20160316_geometry.STEP
+    (model :AUTOMATEDDIR:/3D/LEDs/OSRAM_Duris_S5.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module Automated:LED_Osram_DURIS_S5_3x2.55x0.6mm (layer F.Cu) (tedit 5F1742BE) (tstamp 5E8DBD76)
+  (module Automated:LED_Osram_DURIS_S5_3x2.55x0.6mm (layer F.Cu) (tedit 5F26CB84) (tstamp 5E8DBD76)
     (at 153.272725 85)
-    (descr "Osram DURIS S5 LED")
-    (tags "osram duris s5 led")
     (path /5E8F201B)
-    (attr smd)
     (fp_text reference D7 (at 0 2.175) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -721,19 +703,16 @@
       (net 17 /N5))
     (pad 1 smd rect (at -0.86 0) (size 1.98 1.5) (layers F.Cu F.Mask)
       (net 17 /N5))
-    (model ${KIPRJMOD}/CAD_GX_PSLX31_20160316/GX_PSLX31_20160316_geometry.STEP
+    (model :AUTOMATEDDIR:/3D/LEDs/OSRAM_Duris_S5.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module Automated:LED_Osram_DURIS_S5_3x2.55x0.6mm (layer F.Cu) (tedit 5F1742BE) (tstamp 5E8DBDC1)
+  (module Automated:LED_Osram_DURIS_S5_3x2.55x0.6mm (layer F.Cu) (tedit 5F26CB84) (tstamp 5E8DBDC1)
     (at 159.72727 85)
-    (descr "Osram DURIS S5 LED")
-    (tags "osram duris s5 led")
     (path /5E8F1BBC)
-    (attr smd)
     (fp_text reference D6 (at 0 2.175) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -776,19 +755,16 @@
       (net 16 /N6))
     (pad 1 smd rect (at -0.86 0) (size 1.98 1.5) (layers F.Cu F.Mask)
       (net 16 /N6))
-    (model ${KIPRJMOD}/CAD_GX_PSLX31_20160316/GX_PSLX31_20160316_geometry.STEP
+    (model :AUTOMATEDDIR:/3D/LEDs/OSRAM_Duris_S5.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module Automated:LED_Osram_DURIS_S5_3x2.55x0.6mm (layer F.Cu) (tedit 5F1742BE) (tstamp 5E8DBE0C)
+  (module Automated:LED_Osram_DURIS_S5_3x2.55x0.6mm (layer F.Cu) (tedit 5F26CB84) (tstamp 5E8DBE0C)
     (at 166.181815 85)
-    (descr "Osram DURIS S5 LED")
-    (tags "osram duris s5 led")
     (path /5E8F168F)
-    (attr smd)
     (fp_text reference D5 (at 0 2.175) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -831,19 +807,16 @@
       (net 15 /N7))
     (pad 1 smd rect (at -0.86 0) (size 1.98 1.5) (layers F.Cu F.Mask)
       (net 15 /N7))
-    (model ${KIPRJMOD}/CAD_GX_PSLX31_20160316/GX_PSLX31_20160316_geometry.STEP
+    (model :AUTOMATEDDIR:/3D/LEDs/OSRAM_Duris_S5.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module Automated:LED_Osram_DURIS_S5_3x2.55x0.6mm (layer F.Cu) (tedit 5F1742BE) (tstamp 5E8DBF38)
+  (module Automated:LED_Osram_DURIS_S5_3x2.55x0.6mm (layer F.Cu) (tedit 5F26CB84) (tstamp 5E8DBF38)
     (at 172.63636 85)
-    (descr "Osram DURIS S5 LED")
-    (tags "osram duris s5 led")
     (path /5E8F0912)
-    (attr smd)
     (fp_text reference D4 (at 0 2.175) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -886,19 +859,16 @@
       (net 14 /N8))
     (pad 1 smd rect (at -0.86 0) (size 1.98 1.5) (layers F.Cu F.Mask)
       (net 14 /N8))
-    (model ${KIPRJMOD}/CAD_GX_PSLX31_20160316/GX_PSLX31_20160316_geometry.STEP
+    (model :AUTOMATEDDIR:/3D/LEDs/OSRAM_Duris_S5.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module Automated:LED_Osram_DURIS_S5_3x2.55x0.6mm (layer F.Cu) (tedit 5F1742BE) (tstamp 5E8DBE57)
+  (module Automated:LED_Osram_DURIS_S5_3x2.55x0.6mm (layer F.Cu) (tedit 5F26CB84) (tstamp 5E8DBE57)
     (at 179.090905 85)
-    (descr "Osram DURIS S5 LED")
-    (tags "osram duris s5 led")
     (path /5E8EFA96)
-    (attr smd)
     (fp_text reference D3 (at 0 2.175) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -941,19 +911,16 @@
       (net 13 /N9))
     (pad 1 smd rect (at -0.86 0) (size 1.98 1.5) (layers F.Cu F.Mask)
       (net 13 /N9))
-    (model ${KIPRJMOD}/CAD_GX_PSLX31_20160316/GX_PSLX31_20160316_geometry.STEP
+    (model :AUTOMATEDDIR:/3D/LEDs/OSRAM_Duris_S5.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module Automated:LED_Osram_DURIS_S5_3x2.55x0.6mm (layer F.Cu) (tedit 5F1742BE) (tstamp 5E8DBF83)
+  (module Automated:LED_Osram_DURIS_S5_3x2.55x0.6mm (layer F.Cu) (tedit 5F26CB84) (tstamp 5E8DBF83)
     (at 185.54545 85)
-    (descr "Osram DURIS S5 LED")
-    (tags "osram duris s5 led")
     (path /5E8EEA26)
-    (attr smd)
     (fp_text reference D2 (at 0 2.175) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -996,19 +963,16 @@
       (net 12 /N10))
     (pad 1 smd rect (at -0.86 0) (size 1.98 1.5) (layers F.Cu F.Mask)
       (net 12 /N10))
-    (model ${KIPRJMOD}/CAD_GX_PSLX31_20160316/GX_PSLX31_20160316_geometry.STEP
+    (model :AUTOMATEDDIR:/3D/LEDs/OSRAM_Duris_S5.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module Automated:LED_Osram_DURIS_S5_3x2.55x0.6mm (layer F.Cu) (tedit 5F1742BE) (tstamp 5E8DBFCE)
+  (module Automated:LED_Osram_DURIS_S5_3x2.55x0.6mm (layer F.Cu) (tedit 5F26CB84) (tstamp 5E8DBFCE)
     (at 192 85)
-    (descr "Osram DURIS S5 LED")
-    (tags "osram duris s5 led")
     (path /5E5C2941)
-    (attr smd)
     (fp_text reference D1 (at 0 2.175) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -1051,10 +1015,10 @@
       (net 11 /N11))
     (pad 1 smd rect (at -0.86 0) (size 1.98 1.5) (layers F.Cu F.Mask)
       (net 11 /N11))
-    (model ${KIPRJMOD}/CAD_GX_PSLX31_20160316/GX_PSLX31_20160316_geometry.STEP
+    (model :AUTOMATEDDIR:/3D/LEDs/OSRAM_Duris_S5.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
