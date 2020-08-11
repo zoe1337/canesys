@@ -1,0 +1,4 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"C1","100nF","C_0603_1608Metric",118.300000,-88.300000,90.000000,top
+"J1","Luminiaire_Connector","PinHeader_2x04_P2.54mm_Vertical_SMD",92.000000,-85.200000,0.000000,top
+"U1","TMP23xDBZ","SOT-23",120.900000,-88.500000,90.000000,top

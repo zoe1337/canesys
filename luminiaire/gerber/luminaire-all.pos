@@ -1,0 +1,9 @@
+### Module positions - created on Tue Jul 21 21:28:32 2020 ###
+### Printed by Pcbnew version kicad 5.1.6
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val                   Package                                   PosX       PosY       Rot  Side
+C1        100nF                 C_0603_1608Metric                     118.3000   -88.3000   90.0000  top
+J1        Luminiaire_Connector  PinHeader_2x04_P2.54mm_Vertical_SMD    92.0000   -85.2000    0.0000  top
+U1        TMP23xDBZ             SOT-23                                120.9000   -88.5000   90.0000  top
+## End
